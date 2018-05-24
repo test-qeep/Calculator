@@ -1,2 +1,2 @@
-var k = 20;
+var k = 3 > 2;
 console.log(k);
